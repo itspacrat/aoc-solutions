@@ -1,2 +1,4 @@
-# public-art
-a repo for me to store art that i don't mind you all seeing
+# itspacrat's AOC repo
+a repo to store advent of code solutions i've done after they come out. Videos may come out alongside each year as well!!!
+# navigation
+wip
